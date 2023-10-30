@@ -13,7 +13,6 @@ The MADBase is composed of 70,000 digits written by 700 participants. Each parti
  # User Interface
  To evaluate and validate our artificial model, we created an user interface using the Python library Streamlit, designed for local development and prototyping of the project.
  <br>
- <img src="images/test 1.png" width=25%>
  <img src="images/test 2.png" width=25%>
  <img src="images/test 3.png" width=25%>
  <img src="images/test 4.png" width=25%>
