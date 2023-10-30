@@ -1,5 +1,5 @@
 # ArDigiScan
 Arabic Handwritten Digit Recognition | Deep learning model from scratch using Numpy
 
-#Content
+# Content
 tree
